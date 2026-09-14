@@ -1,3 +1,4 @@
+
 function welcomeFunction() {
   let project =document.getElementById("welcome");
   const name = prompt("Welcome to my Developer Engineering Notebook! What's your name?");
@@ -6,3 +7,9 @@ function welcomeFunction() {
 
 welcomeFunction()
 
+function myFunction() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+}
+
+myFunction()

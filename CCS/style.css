@@ -5,7 +5,7 @@ body {
 
 body {
   padding: 25px;
-  background-color: white;
+  background-color: rgb(255, 255, 255);
   color: black;
   font-size: 25px;
 }
@@ -59,28 +59,7 @@ h3 {
   text-align: left;
 }
 
-body {background-color: black;}
-
-body {
-  color: white;
+class {
+  text-color: white;
 }
 
-h1 {
-  color: white;
-}
-
-h2 {
-  color: white;
-}
-
-h3 {
-  color: white;
-}
-
-h4 {
-  color: white;
-}
-
-h5 {
-  color: white;
-}
